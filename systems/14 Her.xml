@@ -32,13 +32,13 @@
 			<list>Confirmed planets</list>
 			<mass>4.975</mass>
 			<period>1766</period>
-			<semimajoraxis>2.864</semimajoraxis>
-			<eccentricity>0.359</eccentricity>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">2.77</semimajoraxis>
+			<eccentricity lowerlimit="0.005000" upperlimit="0.005000">0.369</eccentricity>
 			<periastron>22.230</periastron>
 			<meananomaly>330.421</meananomaly>
 			<description>The star 14 Herculis is only 59 light years away in the constellation Hercules. However, because it is an orange dwarf star it can not be seen with the naked eye. There is only one confirmed planet in the system, but a dynamical analysis suggests that they might be two planets locked in a 4:1 mean motion resonance.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/21</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 		<planet>
