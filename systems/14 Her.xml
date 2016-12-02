@@ -13,9 +13,9 @@
 		<name>GJ 614</name>
 		<name>BD+44 2549</name>
 		<name>2MASS J16102432+4349037</name>
-		<mass>1.0</mass>
+		<mass>0.9</mass>
 		<radius>0.708</radius>
-		<magV>6.67</magV>
+		<magV>6.61</magV>
 		<magB>7.57</magB>
 		<magR>6.1</magR>
 		<magI>5.6</magI>
@@ -38,7 +38,7 @@
 			<meananomaly>330.421</meananomaly>
 			<description>The star 14 Herculis is only 59 light years away in the constellation Hercules. However, because it is an orange dwarf star it can not be seen with the naked eye. There is only one confirmed planet in the system, but a dynamical analysis suggests that they might be two planets locked in a 4:1 mean motion resonance.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/21</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 		<planet>

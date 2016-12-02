@@ -18,9 +18,9 @@
 		<magB>6.24</magB>
 		<magR>4.6</magR>
 		<magI>4.1</magI>
-		<magJ errorminus="0.180" errorplus="0.180">3.019</magJ>
-		<magH errorminus="0.184" errorplus="0.184">2.608</magH>
-		<magK errorminus="0.240" errorplus="0.240">2.331</magK>
+		<magJ errorminus="0.180" errorplus="0.180">3.02</magJ>
+		<magH errorminus="0.184" errorplus="0.184">2.61</magH>
+		<magK errorminus="0.240" errorplus="0.240">2.33</magK>
 		<temperature errorminus="20" errorplus="20">4813</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.24</metallicity>
 		<spectraltype>K0III</spectraltype>
@@ -29,7 +29,7 @@
 			<name>14 Andromedae b</name>
 			<name>HD 221345 b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">4.8</mass>
+			<mass errorminus="0.57" errorplus="0.57" type="msini">5.33</mass>
 			<period errorminus="0.23" errorplus="0.23">185.84</period>
 			<semimajoraxis>0.83</semimajoraxis>
 			<eccentricity>0</eccentricity>
@@ -37,7 +37,7 @@
 			<periastrontime errorminus="1.5" errorplus="1.5">2452861.4</periastrontime>
 			<description>14 Andromedae is an evolved star in the constellation of Andromeda. It was formerly an A-type dwarf.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>
