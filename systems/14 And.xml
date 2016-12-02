@@ -19,7 +19,7 @@
 		<magR>4.6</magR>
 		<magI>4.1</magI>
 		<magJ errorminus="0.180" errorplus="0.180">3.02</magJ>
-		<magH errorminus="0.184" errorplus="0.184">2.608</magH>
+		<magH errorminus="0.184" errorplus="0.184">2.61</magH>
 		<magK errorminus="0.240" errorplus="0.240">2.33</magK>
 		<temperature errorminus="20" errorplus="20">4813</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.24</metallicity>
