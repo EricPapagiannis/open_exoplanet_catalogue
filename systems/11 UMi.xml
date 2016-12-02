@@ -17,7 +17,7 @@
 		<name>2MASS J15170588+7149258</name>
 		<mass errorminus="0.25" errorplus="0.25">1.80</mass>
 		<radius errorminus="1.84" errorplus="1.84">24.08</radius>
-		<magV>5.024</magV>
+		<magV>5.02</magV>
 		<magB>6.415</magB>
 		<magJ errorminus="0.230" errorplus="0.230">2.876</magJ>
 		<magH errorminus="0.194" errorplus="0.194">2.091</magH>
@@ -38,7 +38,7 @@
 			<periastrontime errorminus="2.06" errorplus="2.06">2452861.04</periastrontime>
 			<description>11 Ursae Minoris is a star located in the constellation Ursa Minor and also named Pherkard or Pherkad Minor.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
